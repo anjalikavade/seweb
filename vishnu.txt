@@ -58,3 +58,6 @@ o Use a CSS framework or custom styling.
 o Visual design and layout consistency.
 o Responsiveness and adaptability.
 o Code modularity and reuse of components.
+
+
+flask and react
